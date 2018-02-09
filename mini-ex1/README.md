@@ -2,3 +2,5 @@
 
 URL link to my program:
 https://rawgit.com/sarapoulsen/Mini_ex/master/mini-ex1/mini_ex1/mini-ex1/index.html
+
+The making of this "program" was my very first coding experience. 
