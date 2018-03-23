@@ -1,0 +1,1 @@
+**Mini exercise 7**
